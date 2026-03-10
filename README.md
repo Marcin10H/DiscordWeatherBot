@@ -61,7 +61,7 @@ Zanim uruchomisz kod, musisz zarejestrować bota w systemie Discord:
 ### 2. Klonowanie projektu
 Klonowanie to proces pobrania kopii kodu z GitHuba na Twój lokalny dysk. 
 bash
-git clone [https://github.com/TwojNick/Discord-Weather-Bot-Async.git](https://github.com/TwojNick/Discord-Weather-Bot-Async.git)
+git clone [https://github.com/Marcin10H/DiscordWeatherBot](https://github.com/Marcin10H/DiscordWeatherBot)
 cd Discord-Weather-Bot-Async
 
 ### 3. Przygotowanie środowiska
