@@ -1,0 +1,3 @@
+TOKEN: 'YOUR_DISCORD_BOT_TOKEN_HERE'
+DB_LOCAL_URI: 'sqlite:///database/database.sqlite'
+SYSTEM: 'DEV'

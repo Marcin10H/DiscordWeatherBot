@@ -1,0 +1,11 @@
+discord
+discord.py
+PyYAML
+msgspec
+numpy
+pillow
+SQLAlchemy
+requests
+PyMySQL
+colorlog
+aiohttp
