@@ -9,7 +9,7 @@
 
 ---
 
-# 🇵🇱 Wersja Polska
+# Wersja Polska
 
 ## 📝 O projekcie
 
@@ -180,7 +180,7 @@ Bot posiada także obsługę błędów API, dzięki czemu awarie usług zewnętr
 
 ---
 
-# 🇬🇧 English Version
+# English Version
 
 ## 📝 About the Project
 
