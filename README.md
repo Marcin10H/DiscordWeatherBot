@@ -325,3 +325,18 @@ Discord-Weather-Bot-Async
 ## 🔒 Security
 
 `assets/token.yml` is included in `.gitignore` to prevent publishing private tokens.
+
+
+## 📸 Zrzuty ekranu / Screenshots
+
+*Komendy Discord / Discord Commsnds*
+
+![Komendy discord](screenshots/bot1.png)
+
+*Nazwa Miasta / City Name*
+
+![Nazwa](screenshots/bot2.png)
+
+*Historia wyszukań / Search history*
+
+![Historia](screenshots/bot3.png)
